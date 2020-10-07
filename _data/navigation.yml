@@ -1,0 +1,12 @@
+# main links
+main:
+   - title: "Training"
+     url: /trainning/
+   - title: "Solar Inverter"
+     url: /solar-inverter/
+   - title: "TeleCom"
+     url: /telecom
+   - title: "CCTV"
+     url: /cctv-installation
+   - title: "Repairs"
+     url: /computer-phones-repairs
