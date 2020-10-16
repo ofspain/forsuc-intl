@@ -8,10 +8,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-2.jpg
   actions:
-    - label: "ABOUT US"
-      url: "/#"
-    - label: "CONTACT US"
-      url: "/#"
+    - label: "EVERYTHING ABOUT US"
+      url: "/infor/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Get everything you need at your fingertips with few clicks at your convience with the least possible price"
 intro: 
